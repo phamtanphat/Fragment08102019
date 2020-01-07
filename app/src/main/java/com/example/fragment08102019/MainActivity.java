@@ -1,12 +1,10 @@
 package com.example.fragment08102019;
 
+import android.os.Bundle;
+import android.util.Log;
 import androidx.appcompat.app.AppCompatActivity;
 import androidx.fragment.app.FragmentManager;
 import androidx.fragment.app.FragmentTransaction;
-
-import android.os.Bundle;
-import android.os.Handler;
-import android.util.Log;
 
 public class MainActivity extends AppCompatActivity {
 
